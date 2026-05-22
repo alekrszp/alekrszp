@@ -29,26 +29,6 @@ Currently studying Computer Science while working full-time — everything I bui
 
 ---
 
-## Tech Stack
-
-```
-Languages      Python · JavaScript · TypeScript
-Tools          Obsidian · Git · GitHub
-APIs           Gemini API · Anthropic API
-Currently      Learning more about backend development and AI integrations
-```
-
----
-
-## What I'm Interested In
-
-- AI integrations in real operational workflows
-- Knowledge management and documentation systems
-- Developer tooling that solves actual problems
-- Building in public — using what I build
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alekrszp-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/alekrszp)
