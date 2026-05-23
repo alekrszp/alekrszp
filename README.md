@@ -14,21 +14,6 @@ Currently studying Computer Science while working full-time — everything I bui
 
 ---
 
-## What I'm Building
-
-### 🌾 HelpForge — Intelligent Support Knowledge System
-> An AI-powered knowledge management system built on Obsidian for SaaS support teams
-
-- Processes real support conversations and auto-generates structured documentation
-- Custom Obsidian plugin (JavaScript) that integrates Gemini API
-- AI assistant trained on product knowledge that answers support queries in real time
-- Automatic documentation generation from every ticket resolved
-- Git-based multi-machine sync — no paid sync required
-
-**Stack:** JavaScript · Python · Obsidian Plugin API · Gemini API · Git
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alekrszp-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/alekrszp)
