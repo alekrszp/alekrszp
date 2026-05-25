@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a developer based in Brazil, currently working in SaaS suppor, while building real-world tools that solve problems I face every day.
+I'm a developer based in Brazil, currently working in SaaS support, while building real-world tools that solve problems I face every day.
 
 I believe the best software comes from understanding the problem deeply before writing a single line of code. My background in support gives me an unusual perspective: I build things for real users, with real constraints, and real feedback loops.
 
